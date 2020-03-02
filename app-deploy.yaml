@@ -1,7 +1,7 @@
 apiVersion: appsody.dev/v1beta1
 kind: AppsodyApplication
 metadata:
-  name: java-mp-0-6-0-rc2
+  name: java-MP-0-6-0-rc2
 spec:
   # Add fields here
   version: 1.0.0
